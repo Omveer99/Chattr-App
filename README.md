@@ -38,15 +38,7 @@ Chattr is a real-time messaging app built using **Swift**, **SwiftUI**, and **Fi
 
 ## 📷 Screenshots
 
-*(Add screenshots of your app’s UI here for visual appeal)*
-<img width="378" alt="Screenshot 2025-07-07 at 1 34 57 AM" src="https://github.com/user-attachments/assets/cc32293e-6b62-43fb-8a12-76150212b56f" />
-<img width="372" alt="Screenshot 2025-07-07 at 1 35 25 AM" src="https://github.com/user-attachments/assets/f74a7d57-dea4-440d-a76d-949195567bcc" />
-<img width="381" alt="Screenshot 2025-07-07 at 1 35 41 AM" src="https://github.com/user-attachments/assets/8644ef56-bca6-46fd-9237-1e51114a1b38" />
-<img width="368" alt="Screenshot 2025-07-07 at 1 34 23 AM" src="https://github.com/user-attachments/assets/b09181e9-9724-47c6-9378-ca54f35d062f" />
-
-<img width="335" alt="Screenshot 2025-07-07 at 1 32 50 AM" src="https://github.com/user-attachments/assets/cf294fe4-d91b-4e6f-b62b-6d0171dcb7b5" />
-<img width="364" alt="Screenshot 2025-07-07 at 1 33 57 AM" src="https://github.com/user-attachments/assets/65cb9908-9f64-40c0-aa40-a62cf951e7dd" />
-
+<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/cf294fe4-d91b-4e6f-b62b-6d0171dcb7b5" width="160"/></td> <td><img src="https://github.com/user-attachments/assets/65cb9908-9f64-40c0-aa40-a62cf951e7dd" width="160"/></td> <td><img src="https://github.com/user-attachments/assets/b09181e9-9724-47c6-9378-ca54f35d062f" width="160"/></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/cc32293e-6b62-43fb-8a12-76150212b56f" width="160"/></td> <td><img src="https://github.com/user-attachments/assets/f74a7d57-dea4-440d-a76d-949195567bcc" width="160"/></td> <td><img src="https://github.com/user-attachments/assets/8644ef56-bca6-46fd-9237-1e51114a1b38" width="160"/></td> </tr> </table> </div>
 ---
 
 ## 📦 Installation
