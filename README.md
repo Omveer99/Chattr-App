@@ -21,8 +21,6 @@ Chattr is a real-time messaging app built using **Swift**, **SwiftUI**, and **Fi
 - 📲 **SwiftUI-based Interface**
   - Modern, clean, and responsive UI built entirely with SwiftUI.
 
-- 🔔 **Push Notification Ready** *(optional integration)*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -31,7 +29,7 @@ Chattr is a real-time messaging app built using **Swift**, **SwiftUI**, and **Fi
 - **Backend:** Firebase
   - **Firestore** – Realtime NoSQL database
   - **Firebase Auth** – Secure authentication
-  - **Firebase Storage** *(optional)* – For storing profile pictures
+  - **Firebase Storage** – For storing profile pictures
 - **Architecture:** MVVM (Model-View-ViewModel)
 
 ---
